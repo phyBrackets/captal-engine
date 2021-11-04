@@ -1,7 +1,7 @@
 # Captal Engine
 Captal is a C++20 low-level 2D game engine.  
 Low level means that, it is not the kind of engine you plug your code in, it is the kind of engine that you plug in your code. 
-It also tries to keep the lower overhead as possible, while being accessible by most C++ developpers that have basic knowledge of GPU, audio and game programming.
+It also tries to keep the lower overhead as possible, while being accessible by most C++ developers that have basic knowledge of GPU, audio and game programming.
 
 ## Modules
 
